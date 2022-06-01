@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/0000000Jami/Java_MVVM/2MVVM_ViewModel/app/src/main/res/layout/activity_dog.xml" value="0.25" />
+        <entry key="..\:/00pAndr_Java/21Andr_Estrutura/04MVVM/1ViewModel/1Basico/app/src/main/res/layout/activity_dog.xml" value="0.25" />
+        <entry key="..\:/00pAndr_Java/21Andr_Estrutura/04MVVM/3Camada_Repository/1Objetos/app/src/main/res/layout/activity_dog.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
